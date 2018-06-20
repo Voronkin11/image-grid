@@ -1,0 +1,41 @@
+img {
+	width: 100%;
+	height: auto;
+}
+
+.ba-container {
+	width: 1200px;
+	margin: auto;
+	padding: 20px;
+}
+
+.ba-row {
+	width: 100%;
+	font-size: 0;
+}
+
+.ba-width {
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+.ba-width__1-2{
+	width: 50%;
+}
+
+.ba-width__1-3 {
+	width: 33.33333%;
+}
+
+.ba-width__2-6 {
+	width: 33.33333%;
+}
+
+.ba-width__1-6 {
+	width: 16.66666%;
+}
+
+.ba-width__3-6 {
+	width: 50%;
+}
